@@ -26,7 +26,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 ### **Procedure**
 
 1. Open **STM32CubeIDE**.
-   <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/109135f6-e6f9-46f8-86e1-ecafa6170b01" />
+   <img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/2c54d49d-df8b-4a42-81d7-a0395cf09383" />
+
 
 2. Click **File → New STM32 Project**.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
@@ -51,8 +52,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
  
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
-<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
+<img width="1918" height="1147" alt="image" src="https://github.com/user-attachments/assets/4d861194-902c-4fc8-8fb1-d41f54cb387f" />
+
 
 9. Click **Project → Build All**.
     <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
@@ -103,7 +104,13 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+![WhatsApp Image 2025-11-04 at 4 43 12 PM](https://github.com/user-attachments/assets/2df4d9f3-2185-4fb6-bdc8-c01936f503cb)
+
+
 CASE 2: LED OFF
+
+![WhatsApp Image 2025-11-04 at 4 43 02 PM](https://github.com/user-attachments/assets/e96e79c2-c87e-40b8-bfef-469e11284235)
+
 
 ---
 ### RESULT
